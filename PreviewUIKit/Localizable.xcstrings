@@ -1,7 +1,23 @@
 {
   "sourceLanguage" : "ta-IN",
   "strings" : {
-
+    "email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "email"
+          }
+        },
+        "ta-IN" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "மின்னஞ்சல்"
+          }
+        }
+      }
+    }
   },
   "version" : "1.0"
 }
